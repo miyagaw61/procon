@@ -1,0 +1,1 @@
+/home/miyagaw61/src/github.com/miyagaw61/procon/atcoder_abc_abc081_a_placing_marbels/target/debug/atcoder_abc_abc081_a_placing_marbels: /home/miyagaw61/src/github.com/miyagaw61/procon/atcoder_abc_abc081_a_placing_marbels/src/main.rs
