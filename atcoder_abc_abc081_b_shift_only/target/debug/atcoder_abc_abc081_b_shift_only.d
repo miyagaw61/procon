@@ -1,0 +1,1 @@
+/home/miyagaw61/src/github.com/miyagaw61/procon/atcoder_abc_abc081_b_shift_only/target/debug/atcoder_abc_abc081_b_shift_only: /home/miyagaw61/src/github.com/miyagaw61/procon/atcoder_abc_abc081_b_shift_only/src/main.rs
