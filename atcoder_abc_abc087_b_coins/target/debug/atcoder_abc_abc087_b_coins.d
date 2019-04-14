@@ -1,1 +1,0 @@
-/home/miyagaw61/src/github.com/miyagaw61/procon/atcoder_abc_abc087_b_coins/target/debug/atcoder_abc_abc087_b_coins: /home/miyagaw61/src/github.com/miyagaw61/procon/atcoder_abc_abc087_b_coins/src/main.rs
