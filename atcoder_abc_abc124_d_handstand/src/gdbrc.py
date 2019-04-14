@@ -1,0 +1,6 @@
+e = Exgdb()
+c = ExgdbCmd()
+#c.b('atcoder_abc_abc124_d_handstand::main')
+c.b('main.rs:82')
+gdb.execute('run')
+gdb.execute('layout src')
