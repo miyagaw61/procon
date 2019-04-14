@@ -1,5 +1,5 @@
 [package]
-name = "atcoder_abc_abc088_b_card_game_for_two"
+name = "atcoder_abc_abc081_b_100_shift_only"
 version = "0.1.0"
 authors = ["miyagaw61 <miyagaw61@gmail.com>"]
 edition = "2018"

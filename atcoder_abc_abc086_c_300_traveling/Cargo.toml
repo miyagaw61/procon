@@ -1,7 +1,6 @@
 [package]
-name = "atcoder_abc_abc087_b_coins"
+name = "atcoder_abc_abc086_c_300_traveling"
 version = "0.1.0"
 authors = ["miyagaw61 <miyagaw61@gmail.com>"]
-edition = "2018"
 
 [dependencies]

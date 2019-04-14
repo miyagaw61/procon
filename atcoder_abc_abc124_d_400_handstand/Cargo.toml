@@ -1,7 +1,6 @@
 [package]
-name = "atcoder_abc_abc081_b_shift_only"
+name = "atcoder_abc_abc124_d_400_handstand"
 version = "0.1.0"
 authors = ["miyagaw61 <miyagaw61@gmail.com>"]
-edition = "2018"
 
 [dependencies]
