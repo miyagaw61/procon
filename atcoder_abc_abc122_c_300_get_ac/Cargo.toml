@@ -1,0 +1,6 @@
+[package]
+name = "atcoder_abc_abc122_c_300_get_ac"
+version = "0.1.0"
+authors = ["miyagaw61 <miyagaw61@gmail.com>"]
+
+[dependencies]
