@@ -1,0 +1,5 @@
+e = Exgdb()
+c = ExgdbCmd()
+c.b('atcoder_abc_abc125_a_100_biscuit_generator::main')
+gdb.execute('run')
+gdb.execute('layout src')
