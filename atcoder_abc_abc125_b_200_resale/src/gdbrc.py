@@ -1,0 +1,5 @@
+e = Exgdb()
+c = ExgdbCmd()
+c.b('atcoder_abc_abc125_b_200_resale::main')
+gdb.execute('run')
+gdb.execute('layout src')
