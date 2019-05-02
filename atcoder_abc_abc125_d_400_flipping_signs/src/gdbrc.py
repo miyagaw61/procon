@@ -1,0 +1,5 @@
+e = Exgdb()
+c = ExgdbCmd()
+c.b('atcoder_abc_abc125_d_400_flipping_signs::main')
+gdb.execute('run')
+gdb.execute('layout src')
