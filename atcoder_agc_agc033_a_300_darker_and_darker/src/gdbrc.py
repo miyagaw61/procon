@@ -1,0 +1,5 @@
+e = Exgdb()
+c = ExgdbCmd()
+c.b('atcoder_agc_agc033_a_300_darker_and_darker::main')
+gdb.execute('run')
+gdb.execute('layout src')

@@ -1,0 +1,6 @@
+[package]
+name = "atcoder_agc_agc033_a_300_darker_and_darker"
+version = "0.1.0"
+authors = ["miyagaw61 <miyagaw61@gmail.com>"]
+
+[dependencies]
