@@ -1,0 +1,13 @@
+[package]
+name = "abc149"
+version = "0.1.0"
+authors = ["miyagaw61 <miyagaw61@gmail.com>"]
+edition = "2018"
+
+# dependencies added to new project
+[dependencies]
+renert = { git = "https://github.com/miyagaw61/renert" }
+
+[profile.release]
+lto = true
+panic = 'abort'
